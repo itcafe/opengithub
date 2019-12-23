@@ -1,0 +1,473 @@
+{
+  "resources": [
+    {
+      "id": 0.33326162374715174,
+      "name": "機械",
+      "color": "blue",
+      "status": "status",
+      "comment": "井田さん"
+    },
+    {
+      "id": 0.9358970565748959,
+      "name": "造機",
+      "color": "lime",
+      "status": "status",
+      "comment": "垣渕さん"
+    },
+    {
+      "id": 0.29114212713801724,
+      "name": "工作所",
+      "color": "teal",
+      "status": "status",
+      "comment": "垣渕さん"
+    },
+    {
+      "id": 0.160252166638728,
+      "name": "稲",
+      "color": "light-green",
+      "status": "status",
+      "comment": "埇田さん"
+    },
+    {
+      "id": 0.1596265346790231,
+      "name": "工業",
+      "color": "green",
+      "status": "status",
+      "comment": "澤田さん"
+    },
+    {
+      "id": 0.006724181885028102,
+      "name": "全体ｽｹｼﾞｭｰﾙ",
+      "color": "blue",
+      "status": "status",
+      "comment": "comment"
+    }
+  ],
+  "events": [
+    {
+      "startDate": "2019-11-11T19:00:00.000Z",
+      "endDate": "2019-11-15T15:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated452",
+      "duration": 3.8333333333333335,
+      "name": "改善したPRGを訪問して説明",
+      "color": null,
+      "location": "",
+      "resourceId": 0.33326162374715174
+    },
+    {
+      "startDate": "2019-11-17T15:00:00.000Z",
+      "endDate": "2019-11-26T18:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated453",
+      "duration": 9.125,
+      "name": "新ｼｽﾃﾑで機械割振り決めて12月計画立てる。（野田さんﾃﾞｰﾀをなるべく活用してもらう）",
+      "color": null,
+      "location": "",
+      "resourceId": 0.33326162374715174
+    },
+    {
+      "startDate": "2019-11-30T11:00:00.000Z",
+      "endDate": "2019-12-03T17:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated454",
+      "duration": 3.25,
+      "name": "を訪問して日割り計画の立て方協議",
+      "color": null,
+      "location": "",
+      "resourceId": 0.33326162374715174
+    },
+    {
+      "startDate": "2019-12-03T22:00:00.000Z",
+      "endDate": "2019-12-27T13:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated455",
+      "duration": 23.625,
+      "name": "在庫を差し引いた所要量で計画を立てるフローを確立する",
+      "color": null,
+      "location": "",
+      "resourceId": 0.33326162374715174
+    },
+    {
+      "startDate": "2019-11-03T16:00:00.000Z",
+      "endDate": "2019-11-08T15:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated684",
+      "duration": 4.958333333333333,
+      "name": "どの機械で何が何個できるかﾃﾞｰﾀが来た",
+      "color": null,
+      "location": "",
+      "resourceId": 0.9358970565748959
+    },
+    {
+      "startDate": "2019-11-10T17:00:00.000Z",
+      "endDate": "2019-11-15T13:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated685",
+      "duration": 4.833333333333333,
+      "name": "造機のﾃﾞｰﾀ検証・ﾌﾟﾛｸﾞﾗﾑﾃｽﾄﾗﾝ",
+      "color": null,
+      "location": "",
+      "resourceId": 0.9358970565748959
+    },
+    {
+      "startDate": "2019-11-17T17:00:00.000Z",
+      "endDate": "2019-11-22T14:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated686",
+      "duration": 4.875,
+      "name": "ﾃｽﾄﾗﾝしたﾃﾞｰﾀが現実にmatchしているか確認",
+      "color": null,
+      "location": "",
+      "resourceId": 0.9358970565748959
+    },
+    {
+      "startDate": "2019-12-01T18:00:00.000Z",
+      "endDate": "2019-12-13T14:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated688",
+      "duration": 11.833333333333334,
+      "name": "1月の計画に適用する準備をする",
+      "color": null,
+      "location": "",
+      "resourceId": 0.9358970565748959
+    },
+    {
+      "startDate": "2019-12-15T18:00:00.000Z",
+      "endDate": "2019-12-27T15:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated689",
+      "duration": 11.875,
+      "name": "新ｼｽﾃﾑで1月の計画実施",
+      "color": null,
+      "location": "",
+      "resourceId": 0.9358970565748959
+    },
+    {
+      "startDate": "2019-11-10T19:00:00.000Z",
+      "endDate": "2019-11-15T15:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated690",
+      "duration": 4.833333333333333,
+      "name": "どの機械で何が何個できるかﾃﾞｰﾀを入手する",
+      "color": null,
+      "location": "",
+      "resourceId": 0.29114212713801724
+    },
+    {
+      "startDate": "2019-11-17T18:00:00.000Z",
+      "endDate": "2019-11-29T16:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated691",
+      "duration": 11.916666666666666,
+      "name": "杉のﾃﾞｰﾀ検証・ﾌﾟﾛｸﾞﾗﾑﾃｽﾄﾗﾝ",
+      "color": null,
+      "location": "",
+      "resourceId": 0.29114212713801724
+    },
+    {
+      "startDate": "2019-11-29T17:00:00.000Z",
+      "endDate": "2019-12-04T15:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated692",
+      "duration": 4.916666666666667,
+      "name": "ﾃｽﾄﾗﾝしたﾃﾞｰﾀが現実にmatchしているか確認",
+      "color": null,
+      "location": "",
+      "resourceId": 0.29114212713801724
+    },
+    {
+      "startDate": "2019-12-04T20:00:00.000Z",
+      "endDate": "2019-12-09T19:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated693",
+      "duration": 4.958333333333333,
+      "name": "訪問しﾃｽﾄﾗﾝ結果FB→課題明確化",
+      "color": null,
+      "location": "",
+      "resourceId": 0.29114212713801724
+    },
+    {
+      "startDate": "2019-12-10T00:00:00.000Z",
+      "endDate": "2019-12-20T14:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated694",
+      "duration": 10.583333333333334,
+      "name": "1月の計画に適用する準備をする",
+      "color": null,
+      "location": "",
+      "resourceId": 0.29114212713801724
+    },
+    {
+      "startDate": "2019-12-22T17:00:00.000Z",
+      "endDate": "2019-12-27T11:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated695",
+      "duration": 4.75,
+      "name": "新ｼｽﾃﾑで1月の計画実施",
+      "color": null,
+      "location": "",
+      "resourceId": 0.29114212713801724
+    },
+    {
+      "startDate": "2019-11-10T19:00:00.000Z",
+      "endDate": "2019-11-15T11:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated696",
+      "duration": 4.666666666666667,
+      "name": "ﾃﾞｰﾀﾃｽﾄﾗﾝし現実にmatchしているか確認する",
+      "color": null,
+      "location": "",
+      "resourceId": 0.160252166638728
+    },
+    {
+      "startDate": "2019-11-17T18:00:00.000Z",
+      "endDate": "2019-11-22T11:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated698",
+      "duration": 4.708333333333333,
+      "name": "課題を明確化し、今後の進め方を決める",
+      "color": null,
+      "location": "",
+      "resourceId": 0.160252166638728
+    },
+    {
+      "startDate": "2019-12-03T21:00:00.000Z",
+      "endDate": "2019-12-13T15:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated699",
+      "duration": 9.75,
+      "name": "1月の計画適用準備をする。",
+      "color": null,
+      "location": "",
+      "resourceId": 0.160252166638728
+    },
+    {
+      "startDate": "2019-12-11T16:00:00.000Z",
+      "endDate": "2019-12-16T09:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated700",
+      "duration": 4.708333333333333,
+      "name": "進め方を決める。",
+      "color": null,
+      "location": "",
+      "resourceId": 0.1596265346790231
+    },
+    {
+      "startDate": "2019-11-26T23:00:00.000Z",
+      "endDate": "2019-11-29T14:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated249",
+      "duration": 2.625,
+      "name": "日割り計画やり方検討",
+      "color": null,
+      "location": "",
+      "resourceId": 0.33326162374715174
+    },
+    {
+      "startDate": "2019-11-25T15:00:00.000Z",
+      "endDate": "2019-11-29T15:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated250",
+      "duration": 4,
+      "name": "訪問した。NCLはﾃﾞｰﾀあってそう。MCが現実と乖離有、原因確認",
+      "color": null,
+      "location": "",
+      "resourceId": 0.9358970565748959
+    },
+    {
+      "startDate": "2019-11-27T03:00:00.000Z",
+      "endDate": "2019-12-14T22:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated252",
+      "duration": 17.791666666666668,
+      "name": "各調達先の実情にmatchさせるために、ﾌﾟﾛｸﾞﾗﾑ変更必要？ﾊﾟﾗﾒｰﾀ設定で対応可能？見極め",
+      "color": null,
+      "location": "",
+      "resourceId": 0.006724181885028102
+    },
+    {
+      "startDate": "2019-11-24T19:00:00.000Z",
+      "endDate": "2019-12-03T17:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated253",
+      "duration": 8.916666666666666,
+      "name": "EXCELｿﾌﾄ送った→稲坂実績とあっているか確認してもらう",
+      "color": null,
+      "location": "",
+      "resourceId": 0.160252166638728
+    },
+    {
+      "startDate": "2019-11-27T04:00:00.000Z",
+      "endDate": "2019-12-15T05:00:00.000Z",
+      "durationUnit": "d",
+      "cls": "",
+      "draggable": true,
+      "resizable": true,
+      "id": "_generated254",
+      "duration": 18.041666666666668,
+      "name": "EXCELﾂｰﾙ使って2月・3月のWAOﾃﾞｰﾀをｻﾌﾟﾗｲﾔで能力検証してもらう。",
+      "color": null,
+      "location": "",
+      "resourceId": 0.006724181885028102
+    }
+  ],
+  "startDate": "2019-11-16T15:00:00.000Z",
+  "endDate": "2020-03-07T15:00:00.000Z",
+  "barMargin": 7,
+  "rowHeight": 45,
+  "viewPreset": {
+    "initializingConfigDone": false,
+    "configDone": {
+      "name": true,
+      "_headers": true,
+      "rowHeight": true,
+      "tickWidth": true,
+      "tickHeight": true,
+      "displayDateFormat": true,
+      "shiftUnit": true,
+      "shiftIncrement": true,
+      "defaultSpan": true,
+      "timeResolution": true,
+      "columnLinesFor": true,
+      "headerConfig": true,
+      "ptype": true,
+      "configDone": true,
+      "initializingConfigDone": true,
+      "initialConfig": true,
+      "isConfiguring": true,
+      "increment": true
+    },
+    "initialConfig": {
+      "rowHeight": 24,
+      "tickWidth": 100,
+      "tickHeight": 80,
+      "displayDateFormat": "hh:mm A",
+      "shiftUnit": "week",
+      "shiftIncrement": 1,
+      "defaultSpan": 1,
+      "timeResolution": {
+        "unit": "hour",
+        "increment": 1
+      },
+      "columnLinesFor": "bottom",
+      "headerConfig": {
+        "bottom": {
+          "unit": "day",
+          "dateFormat": "DD日",
+          "increment": 1
+        },
+        "middle": {
+          "unit": "week",
+          "dateFormat": "YYYY年MM月DD日"
+        }
+      }
+    },
+    "isConfiguring": false,
+    "tickWidth": 54,
+    "tickHeight": 80,
+    "displayDateFormat": "hh:mm A",
+    "shiftUnit": "week",
+    "shiftIncrement": 1,
+    "defaultSpan": 1,
+    "timeResolution": {
+      "unit": "hour",
+      "increment": 1
+    },
+    "columnLinesFor": "bottom",
+    "headerConfig": {
+      "bottom": {
+        "unit": "day",
+        "dateFormat": "DD日"
+      },
+      "middle": {
+        "unit": "week",
+        "dateFormat": "YYYY年MM月DD日"
+      }
+    },
+    "name": "weekAndDay",
+    "rowHeight": 24,
+    "ptype": "",
+    "_headers": [
+      {
+        "unit": "week",
+        "dateFormat": "YYYY年MM月DD日"
+      },
+      {
+        "unit": "day",
+        "dateFormat": "DD日",
+        "increment": 1
+      }
+    ],
+    "increment": 1
+  }
+}
