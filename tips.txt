@@ -1,0 +1,2 @@
+## 3.0.2はエクセル保存エラーでる
+dataframe to_excel issue with openpyxl > 3.0.1
