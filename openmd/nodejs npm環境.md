@@ -13,10 +13,9 @@ https://sutaba-mac.site/gyp-not-accept-python3/
 npm config set python /Users/mn/.pyenv/versions/2.7.9/bin/pythonnode-pre-gyp
 
 
-
 ## permission error
 
-・とりあえずnode modlesフォルダを消してみる（再度npm install
+・node modlesフォルダを消してみる（再度npm install
 
 ・パーミッションを無視
 
